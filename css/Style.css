@@ -1,0 +1,18 @@
+h1{
+    color: rgb(212, 118, 59);
+}
+
+h2{
+    color: rgb(70, 62, 218);
+    font-size: 200%;
+}
+
+body {
+    text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
